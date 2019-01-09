@@ -6,3 +6,6 @@ git clone https://github.com/moe0887/moe.git
 
 ## Check changes
 git status
+
+## Pull the update
+git pull
